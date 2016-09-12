@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="eec26ca9-3bf1-427c-85d0-de9883f0720c" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="slidePuzzle_uwp.xr.xml" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/slidePuzzle_uwp.xr.xml">
+				<Candidate type="Path">
+					<Value>slidePuzzle_uwp.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="auto.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/auto.png">
+					<Candidate type="Path">
+						<Value>Assets\auto.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/BadgeLogo.png"/>
+				<NamedResource name="board.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/board.png">
+					<Candidate type="Path">
+						<Value>Assets\board.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="clock.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/clock.png">
+					<Candidate type="Path">
+						<Value>Assets\clock.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="imageslog107x107.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/imageslog107x107.png">
+					<Candidate type="Path">
+						<Value>Assets\imageslog107x107.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="imageslog150x150.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/imageslog150x150.png">
+					<Candidate type="Path">
+						<Value>Assets\imageslog150x150.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="imageslog200x200.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/imageslog200x200.png"/>
+				<NamedResource name="imageslog284x284.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/imageslog284x284.png"/>
+				<NamedResource name="imageslog36x36.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/imageslog36x36.png">
+					<Candidate type="Path">
+						<Value>Assets\imageslog36x36.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="imageslog50x50.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/imageslog50x50.png">
+					<Candidate type="Path">
+						<Value>Assets\imageslog50x50.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="imageslog71x71png.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/imageslog71x71png.png">
+					<Candidate type="Path">
+						<Value>Assets\imageslog71x71png.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="imageslog75x75.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/imageslog75x75.png">
+					<Candidate type="Path">
+						<Value>Assets\imageslog75x75.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pause.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/pause.png">
+					<Candidate type="Path">
+						<Value>Assets\pause.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="play.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/play.png">
+					<Candidate type="Path">
+						<Value>Assets\play.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="restart.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/restart.png">
+					<Candidate type="Path">
+						<Value>Assets\restart.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.scale44x44png.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/SplashScreen.scale44x44png.png"/>
+				<NamedResource name="SplashScreen1240x600.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/SplashScreen1240x600.png">
+					<Candidate type="Path">
+						<Value>Assets\SplashScreen1240x600.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen620x300png.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/SplashScreen620x300png.png">
+					<Candidate type="Path">
+						<Value>Assets\SplashScreen620x300png.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen96x96.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/SplashScreen96x96.png">
+					<Candidate type="Path">
+						<Value>Assets\SplashScreen96x96.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/Square71x71Logo.png"/>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://eec26ca9-3bf1-427c-85d0-de9883f0720c/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

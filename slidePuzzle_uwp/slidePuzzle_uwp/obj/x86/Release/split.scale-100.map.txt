@@ -1,0 +1,12 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\split.scale-100.pri"			"resources.pri"
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\PackageLayout\Assets\StoreLogo.scale-100.png"			"Assets\StoreLogo.scale-100.png"
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\PackageLayout\Assets\Square71x71Logo.scale-100.png"			"Assets\Square71x71Logo.scale-100.png"
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\PackageLayout\Assets\Square150x150Logo.scale-100.png"			"Assets\Square150x150Logo.scale-100.png"
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\PackageLayout\Assets\SplashScreen.scale44x44png.scale-100.png"			"Assets\SplashScreen.scale44x44png.scale-100.png"
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\PackageLayout\Assets\SplashScreen.scale-100.png"			"Assets\SplashScreen.scale-100.png"
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\PackageLayout\Assets\imageslog284x284.scale-100.png"			"Assets\imageslog284x284.scale-100.png"

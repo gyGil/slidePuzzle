@@ -1,0 +1,1 @@
+C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\slidePuzzle_uwp.csproj;x86

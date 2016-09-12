@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN10-A01</Machine>
+    <WindowsUser>Student</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>eec26ca9-3bf1-427c-85d0-de9883f0720c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\auto.png">
+      <PackagePath>Assets\auto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\BadgeLogo.scale-150.png">
+      <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\board.png">
+      <PackagePath>Assets\board.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\clock.png">
+      <PackagePath>Assets\clock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\imageslog107x107.png">
+      <PackagePath>Assets\imageslog107x107.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\imageslog150x150.png">
+      <PackagePath>Assets\imageslog150x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\imageslog200x200.scale-400.png">
+      <PackagePath>Assets\imageslog200x200.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\imageslog284x284.scale-100.png">
+      <PackagePath>Assets\imageslog284x284.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\imageslog284x284.scale-400.png">
+      <PackagePath>Assets\imageslog284x284.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\imageslog36x36.png">
+      <PackagePath>Assets\imageslog36x36.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\imageslog50x50.png">
+      <PackagePath>Assets\imageslog50x50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\imageslog71x71png.png">
+      <PackagePath>Assets\imageslog71x71png.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\imageslog75x75.png">
+      <PackagePath>Assets\imageslog75x75.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\pause.png">
+      <PackagePath>Assets\pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\play.png">
+      <PackagePath>Assets\play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\restart.png">
+      <PackagePath>Assets\restart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\SplashScreen.scale44x44png.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale44x44png.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\SplashScreen1240x600.png">
+      <PackagePath>Assets\SplashScreen1240x600.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\SplashScreen620x300png.png">
+      <PackagePath>Assets\SplashScreen620x300png.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\SplashScreen96x96.png">
+      <PackagePath>Assets\SplashScreen96x96.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-150.png">
+      <PackagePath>Assets\Square71x71Logo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-400.png">
+      <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\slidePuzzle_uwp.dll">
+      <PackagePath>slidePuzzle_uwp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\bin\x86\Release\ilc\slidePuzzle_uwp.exe">
+      <PackagePath>slidePuzzle_uwp.exe</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x64\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x86\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

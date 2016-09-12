@@ -1,0 +1,11 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-400"
+"ResourceDimensions"		"scale-400"
+
+[Files]
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\split.scale-400.pri"			"resources.pri"
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\PackageLayout\Assets\StoreLogo.scale-400.png"			"Assets\StoreLogo.scale-400.png"
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\PackageLayout\Assets\Square71x71Logo.scale-400.png"			"Assets\Square71x71Logo.scale-400.png"
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\PackageLayout\Assets\imageslog284x284.scale-400.png"			"Assets\imageslog284x284.scale-400.png"
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\PackageLayout\Assets\imageslog200x200.scale-400.png"			"Assets\imageslog200x200.scale-400.png"
+"C:\Users\Student\Source\Repos\billclub_cs\slidePuzzle_uwp\slidePuzzle_uwp\obj\x86\Release\PackageLayout\Assets\BadgeLogo.scale-400.png"			"Assets\BadgeLogo.scale-400.png"
